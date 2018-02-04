@@ -1,0 +1,16 @@
+.root {
+  background: #373277;
+  color: #fff;
+  margin: 0 auto;
+  padding: 20px 0;
+  max-width: var(--max-content-width);
+  text-align: center;
+}
+
+.bannerTitle {
+  margin: 0;
+  padding: 10px;
+  font-weight: normal;
+  font-size: 4em;
+  line-height: 1em;
+}
